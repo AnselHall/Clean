@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Clean</string>
+    <string name="index">首页</string>
+    <string name="relax">轻松一下</string>
+    <string name="setting">设置</string>
+
+
+    <string name="draft_string">draft</string>
+    <string name="all_mail_string">allmail</string>
+    <string name="trash_string">trash</string>
+    <string name="spam_string">spam</string>
+    <string name="openDrawer">open</string>
+    <string name="closeDrawer">close</string>
+    <string name="action_settings">setting</string>
+    <string name="app_software_manage">软件管理</string>
+</resources>

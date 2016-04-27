@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      android:layout_height="match_parent" android:layout_width="500dp">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/index"
+            android:checked="true"
+            android:title="@string/index" />
+
+        <item
+            android:id="@+id/relax"
+            android:checked="false"
+            android:title="@string/relax" />
+
+        <item
+            android:id="@+id/setting"
+            android:checked="false"
+            android:title="@string/setting" />
+
+    </group>
+</menu>
